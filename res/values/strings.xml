@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nameToReferenceStringInApp">String value displayed to user</string>
+    <string name="appName">TinyLi.st</string>
+</resources>
